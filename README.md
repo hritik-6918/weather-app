@@ -1,3 +1,5 @@
+![screencapture-weather-app-hritik6918-netlify-app-2025-01-23-17_52_35](https://github.com/user-attachments/assets/43e3a0e8-4c1f-4fe9-93ae-0705f6c30a04)
+
 # Weather App with CRUD Operations
 
 A comprehensive weather application that allows users to:
